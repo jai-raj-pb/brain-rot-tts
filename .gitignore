@@ -1,0 +1,13 @@
+# Ignore environment variables file
+.env
+
+# Ignore virtual environment directory
+.venv/
+
+# Ignore media, results, and s3_downloads directories
+medias/
+results/
+s3_downloads/
+
+# Ignore all JSON files
+*.json

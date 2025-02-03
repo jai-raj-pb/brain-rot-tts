@@ -1,0 +1,75 @@
+{
+        "type": 83,
+        "object": "2405230922159434027",
+        "title": "L1.1.1 Introduction to Product Module.mp4",
+        "obj": {
+          "type": 83,
+          "cas_val": 0,
+          "id": "2405230922159434027",
+          "status": 0,
+          "title": "L1.1.1 Introduction to Product Module.mp4",
+          "uploadedById": "427d9fd62daf3f17",
+          "uploadedAt": 1716456136,
+          "companyId": "1060037234145984721",
+          "size": 18493998,
+          "contentParts": 74,
+          "original_path": "https://cf-picasso-ap1.mindtickle.com/1060037234145984721/VIDEO2405230922159329039/1683099226218L1.1.1IntroductiontoProductModule.mp4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTA2MDAzNzIzNDE0NTk4NDcyMS9WSURFTzI0MDUyMzA5MjIxNTkzMjkwMzkvMTY4MzA5OTIyNjIxOEwxLjEuMUludHJvZHVjdGlvbnRvUHJvZHVjdE1vZHVsZS5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Mzg5NTQ4NjZ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=GeF58Azd3TnXlWDYmmqOs3s8FLSNd3MGat-qnKf-mYzEI3a40BVNMpKpnDcSVpqqwXoqVtxYFTwfPVx3lJxOhjEAQPRj4oe-DRtYNH9aLKbmNV3GYGPGd31UKM501ttA0uY~oa3tGfFjOtj~ovOSnH9GyaYJkcaXL8P8E33Jg~JgeZP44VBnKmkeDAI5KbmtJ~7h98M8I6aCqTspZuLgTMIJWUhxNICGFFw4pSMzGKKqhe8YBuzq25fxWJSDaJ0H7ZXnnPh-G3MDt4UWobMfzcmoj6yuJRthJhuPEL60dVGWKvGm4SLcyslxciLiayl4fdkXMZyFBRPMeNg0dHnNFA__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA",
+          "expiry": 1741244986,
+          "providerSource": "_default",
+          "providerSourceId": "",
+          "mediaSource": "PICASSO",
+          "isEncrypted": null,
+          "mp4Path": "https://cf-picasso-ap1.mindtickle.com/1060037234145984721/VIDEO2405230922159751238/1080p.mp4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTA2MDAzNzIzNDE0NTk4NDcyMS9WSURFTzI0MDUyMzA5MjIxNTk3NTEyMzgvMTA4MHAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzM4OTU0ODY2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=pw69Z6vFPIVvbj8jQxIIaLs4C1AEfWwJtAE5xeLf6Y~0ufAxxvWkzHpxsE6ibvtMERADxlZBydJAlTFBFvmvNZyVaVZqOTV6Eo07KZCboMWyxefKECzR9nLNLFZhyyLR1NJmm96Zl~G2b0OOVJfJJv1bHOQLgR64WI70IN4NAkbPU22ZdTG~djnuXREJ0eice6gLu~4tXQh1~iqTvLlyHOugTP8nlOdAfrJYnd0p0cBS2dvWVBxN32Snqd2f1Vd9qWoh4~Q8hexzrQIbAEbUL7EUftkVhYqndhYZAntfVKFSl~Ws5H5W4tWd4WwZCER00Fux7JJ9czSytuUgMQH4yQ__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA",
+          "mp4PathList": [
+            "https://cf-picasso-ap1.mindtickle.com/1060037234145984721/VIDEO2405230922159751238/1080p.mp4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTA2MDAzNzIzNDE0NTk4NDcyMS9WSURFTzI0MDUyMzA5MjIxNTk3NTEyMzgvMTA4MHAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzM4OTU0ODY2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=pw69Z6vFPIVvbj8jQxIIaLs4C1AEfWwJtAE5xeLf6Y~0ufAxxvWkzHpxsE6ibvtMERADxlZBydJAlTFBFvmvNZyVaVZqOTV6Eo07KZCboMWyxefKECzR9nLNLFZhyyLR1NJmm96Zl~G2b0OOVJfJJv1bHOQLgR64WI70IN4NAkbPU22ZdTG~djnuXREJ0eice6gLu~4tXQh1~iqTvLlyHOugTP8nlOdAfrJYnd0p0cBS2dvWVBxN32Snqd2f1Vd9qWoh4~Q8hexzrQIbAEbUL7EUftkVhYqndhYZAntfVKFSl~Ws5H5W4tWd4WwZCER00Fux7JJ9czSytuUgMQH4yQ__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA",
+            "https://cf-picasso-ap1.mindtickle.com/1060037234145984721/VIDEO2405230922160697692/720p.mp4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTA2MDAzNzIzNDE0NTk4NDcyMS9WSURFTzI0MDUyMzA5MjIxNjA2OTc2OTIvNzIwcC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Mzg5NTQ4NjZ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=j~SGgPfGwgtTmlitE~Ij3pylxbOSA6ipt~Y7X8-MH6r8SB7vnZ3YVAA~dHNGbbooWtKGNonup-7tA7-WAPJJ5XioZRzzrOGDv~aJOSkX~ckQaRgt9fwTiI7YRxayJagnEI4QBVAXcY681-5n3O32IsNZ6-qdsFCagVNZ4lSP~c2-1itQ3UASMDtbPhBbASm2IM~soZ4YXCSoPx096fpyUXpC1BItJKCG2E-Rgv7tr-FIwFzQ9nT430QHV0iXp~4TX8FbOZEbHh3XEVyFrJiRSzqHQfhPJEsHlVIqdbqgYSkAmMhepp4MEddjpJyS6ZScK4pXO9p8FZ12-EaN8Jrhng__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA",
+            "https://cf-picasso-ap1.mindtickle.com/1060037234145984721/VIDEO2405230922160505764/480p.mp4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTA2MDAzNzIzNDE0NTk4NDcyMS9WSURFTzI0MDUyMzA5MjIxNjA1MDU3NjQvNDgwcC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Mzg5NTQ4NjZ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=jOdhpYgCv0dWcRmSpdZWg51XJ7NypKlyE0YvBVHw3TnNJyQoCYn-H3cJdmyooOdvJGaI75bQSggxiwLdJsAjRGzyAlHeYnDgfV9CDdlFdlTJsHULSxD-PDWPtC8LmGbXnQolGGK0c9~4k0Fw5U~RYRmcfXklVTacPSyu9JGeEZ4Rmv7TJKgllrniswblsdFL~4wN8nW6gZFgTrdkm32GRqKwsEPeBzItA8ZV01tRujfC7XLRbzVu3rOlfm8PokgXW7L2q06voQbZHiellX2OaUOwof1Y4VyPEpqM0R7kkIH2XW9-M~kc5lfWJnH~rMvCk0NXmVxWEfA5UYgv5vME~A__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA",
+            "https://cf-picasso-ap1.mindtickle.com/1060037234145984721/VIDEO2405230922160344936/360p.mp4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTA2MDAzNzIzNDE0NTk4NDcyMS9WSURFTzI0MDUyMzA5MjIxNjAzNDQ5MzYvMzYwcC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Mzg5NTQ4NjZ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=mbB4-fMqYKaMqGmfctNG3G3WtB-VtFavk8Scc3Td-xvAZtr92FoRiB9ZI51N044HbfTSAnY2UiaV1tF0xq28HStzhyKKnPlL9giRSIV2VBZPcj2rj9hiwFKBVUq~og9z9FjrM9EF-1o3BanvB2B1j77mP6lN2u2pr7g6mvUyQMgZ0Zoc0AsIoeGwUQLzFzRler-n7e0OZ0eDG3OQXvpcEqj5AWxyeOjYKUfWr1LyXHWFygaiMTIx7ygKzIV2JGO2~PRxoHiTDrCaWwdE9OqShSGybXtSrXZIiK8EXI1ObGdWhmERtfwSUzyS2Zi6omCstU8XnsRmerIHbuANcU-w1w__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA",
+            "https://cf-picasso-ap1.mindtickle.com/1060037234145984721/VIDEO2405230922160155501/240p.mp4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTA2MDAzNzIzNDE0NTk4NDcyMS9WSURFTzI0MDUyMzA5MjIxNjAxNTU1MDEvMjQwcC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Mzg5NTQ4NjZ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=xrw-3ElQUmtgSJKo2UXHDwV5K~FDg6ll1UVFyj8P2c-7nPASY3WqQUx8jNbcCfhTBw~jnoirumtEi5HyzPcQ0wH9apW4AzitvcNwMzsSRm-veCHhUztG5j7ba~-Us8KVUaM9eqHyCKDgdclzoe9pK9Ai-8O62zqQ8D6SkLEOaJaiXJ3b9Kcl4eRJMWJFvDzgQnEuHdxZQZEz2TzCRJQfgF8mqzZ-Vo7xpxKHo6-VVjdlL7rJh5x5v4Jux1zOYiXf3-5LJBoyHUtoC6BeSN4Lgg5dvlN9xJMpAqWwC3qEoXCkWllJ~C2xWwz3mSJcv7lmcQXZ4vAcFmqdahk5vJuX0Q__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA",
+            "https://cf-picasso-ap1.mindtickle.com/1060037234145984721/VIDEO2405230922159965006/144p.mp4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTA2MDAzNzIzNDE0NTk4NDcyMS9WSURFTzI0MDUyMzA5MjIxNTk5NjUwMDYvMTQ0cC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Mzg5NTQ4NjZ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=LOacNGG2mHqswLOnNz9NEWuyw4JwsvSJBv0z-1NNivb5YLFa5s4i2hfJd7z4b7QxUThqC7sSM19jlVTdlwhQqWSPUOAS8mSHBX3PCLRoRVI3GDQyuVbYm5ydcaGFI5ckdyvvPM5d~Jjn2krqSpn~CilyZZILLEAgasbWD2C9vo0~hmb1vF~BHgVhXxk2yhwqiErljyefXthxRF5DQiCKOkH-8gGYYKzr-60a~HkXi0y-g8T8~vXoRqS6Vy0uia-ywzdufnH7ru7lpAgDjOI~rsTrr6cOJVttRq0V4XQySafciDksBPICAApJgobpVD60X7-Zn99mtReLiVFYr-Tmeg__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA"
+          ],
+          "streamPath": null,
+          "hlsPath": null,
+          "distributionPathMap": {
+            "DASH": "https://cf-picasso-ap1.mindtickle.com/1379428319012754238/VIDEO2305030734060331821/dash/1683099226218L1.1.1IntroductiontoProductModule.mpd?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTM3OTQyODMxOTAxMjc1NDIzOC9WSURFTzIzMDUwMzA3MzQwNjAzMzE4MjEvZGFzaC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzM4NzU3MTExfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=eOeP4lxddwxgvqIDatDawkkSFqYGO9GYmfr0Xlo61OXaVspY41KCY-PAMCkI1OS83gsVHOZutXj7oSvdXB17HBPw4Np0E~Z2mcL0Qmi4O-7EMoj2sZvGgPmZ4vrnJhLXUrhOiUNczIe3AOXFs~dvxOMwPbJ2PxhuEORugd0Gkq6qv5mGJlzJOJPFL7O~uEJmYj2vp3WTMQNrDGQ9OiwShmHLpincX9F2EOQ3XXXMOIXUUnZ6KTT3c~MliBKUPns3lY~y-9E33wGnvnAVtNBm1UQDArV~RiFqNiwsy1c~D75kKCWNjTnACaz3vNyN4JXsjychuRw5QkPmx3P3iqs1og__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA"
+          },
+          "thumbPath": "https://cf-picasso-ap1.mindtickle.com/1060037234145984721/IMAGE240523092216088640/1683099226218L1.1.1IntroductiontoProductModule_thumb.0000000.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTA2MDAzNzIzNDE0NTk4NDcyMS9JTUFHRTI0MDUyMzA5MjIxNjA4ODY0MC8xNjgzMDk5MjI2MjE4TDEuMS4xSW50cm9kdWN0aW9udG9Qcm9kdWN0TW9kdWxlX3RodW1iLjAwMDAwMDAuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzM4OTU0ODY2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=3pF9Sno~R57-myR51tujcd7CGqGGucuGrIghjpZpw32UNQHredr7ZbO~Q8s5~aPKwoTeFW~~qhezd3FVmY~a9zrwihF4ONZXBROoToRJP-X950F-GowcwnOHh29lvlqdkJ9IqldGHEraSVALTdfEBAbw4XzQZoeJMp6Rg~cYVSGtFFJTn3JDdVVP4AYHHTOuhbWM5Rthzk8iSmamgfkPTqYxFrh~lO44UWSc1BooSIJA6BDV66pSNTbZoEu9p3ytMwGTwNx3AwCX~thFqhCMOHigljqDycq5CYKeTG8vLj~lm5-RkxsrMKkYTIt8Waub-RcoHothGKsH6dd3vsuYyw__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA",
+          "thumbMap": {},
+          "hlscloudFront": null,
+          "cloudFrontUrlMap": {
+            "DASH": {
+              "CloudFront_Url": "https://cf-picasso-ap1.mindtickle.com/1379428319012754238/VIDEO2305030734060331821/dash/1683099226218L1.1.1IntroductiontoProductModule.mpd",
+              "CloudFront_Policy": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTM3OTQyODMxOTAxMjc1NDIzOC9WSURFTzIzMDUwMzA3MzQwNjAzMzE4MjEvZGFzaC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzM4NzU3MTExfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__",
+              "CloudFront_Signature": "eOeP4lxddwxgvqIDatDawkkSFqYGO9GYmfr0Xlo61OXaVspY41KCY-PAMCkI1OS83gsVHOZutXj7oSvdXB17HBPw4Np0E~Z2mcL0Qmi4O-7EMoj2sZvGgPmZ4vrnJhLXUrhOiUNczIe3AOXFs~dvxOMwPbJ2PxhuEORugd0Gkq6qv5mGJlzJOJPFL7O~uEJmYj2vp3WTMQNrDGQ9OiwShmHLpincX9F2EOQ3XXXMOIXUUnZ6KTT3c~MliBKUPns3lY~y-9E33wGnvnAVtNBm1UQDArV~RiFqNiwsy1c~D75kKCWNjTnACaz3vNyN4JXsjychuRw5QkPmx3P3iqs1og__",
+              "CloudFront_Key_Pair_Id": "APKAJGWBOHCJNXASNZPA",
+              "Akamai_Token": null
+            }
+          },
+          "contentPartsInMillis": 74000,
+          "flacPath": null,
+          "mp3Path": null,
+          "transcriptPath": "https://cf-picasso-ap1.mindtickle.com/1060037234145984721/VIDEO2405230922159329039/final_transcription.json?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTA2MDAzNzIzNDE0NTk4NDcyMS9WSURFTzI0MDUyMzA5MjIxNTkzMjkwMzkvZmluYWxfdHJhbnNjcmlwdGlvbi5qc29uIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQwMzgwOTE0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=JblSeYfbbrFThcLrEZbSK~TbxOFf7DjVUfsH2LVh6THmmPk6rZ5ajCMJkSZpFu5OwHcTdlBTUZWrwnYcOrfF5B1xcTKaIUQPl-aw5Ql3o-dTht87eOjlXbkr1~xSmPdvhG96i93ypl5gC42b0Jl1askZm4AOHODkBbgvH~d3ZcNDSoGr9uurn6Vu71VNvCxb-1eEUkpti-eT7wUPPVpYZm-Uf2~lVnhuS8sBwxZ1xpN11nd4o8JtnyjTYVwzZ5U0djn2x2Ab6v5GpjbEdwckTjevJW0bOdk0HFFjcKZB4hqvjBfugRAq5jqvLP5t76KR8GfQG1UZA8BWJ1Glm8OTSw__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA",
+          "vttSubtitlePath": "https://cf-picasso-ap1.mindtickle.com/1060037234145984721/VIDEO2405230922159329039/subtitles.vtt?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTA2MDAzNzIzNDE0NTk4NDcyMS9WSURFTzI0MDUyMzA5MjIxNTkzMjkwMzkvc3VidGl0bGVzLnZ0dCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MDM4MDkxNH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=IWpXNNif9JXq1qez0Eq~3c75eh2Gvf4X6s6GKphfPRjToKycakCJG0qXTPJgGhRXdSOR5fbdLIH8QP4KjzodsVp8SPouAUf7wIlnwZUct7n8ZPUPer~galZ9mvy4z5aXRk7OEyS-kwWjnNGjBNEFJhJh6LZSnI0N~tjvCjQCsNNmAk~PeF~t9-EVFbX9uBxFDqgsE6xp8VWrQRGnnO4KsrvjfQ3nXtKBi99i3Ie6FssuFdAUnvJbijKCbKavBM0eeF56lP2qsMQ0gvEkvrkx69mI1AngiFPgo4vIxckSeV3HV2g3SCo6GL4ZsUelWAufK1ONtXdBkyTA6X7kuO8ALQ__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA",
+          "chunkedTranscription": null,
+          "transcriptionStatus": "SUCCESS",
+          "statusMap": {
+            "DASH": 0
+          },
+          "customSubtitleList": [],
+          "transcriptionList": [
+            {
+              "path": "https://cf-picasso-ap1.mindtickle.com/1060037234145984721/VIDEO2405230922159329039/final_transcription.json?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTA2MDAzNzIzNDE0NTk4NDcyMS9WSURFTzI0MDUyMzA5MjIxNTkzMjkwMzkvZmluYWxfdHJhbnNjcmlwdGlvbi5qc29uIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQwMzgwOTE0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=JblSeYfbbrFThcLrEZbSK~TbxOFf7DjVUfsH2LVh6THmmPk6rZ5ajCMJkSZpFu5OwHcTdlBTUZWrwnYcOrfF5B1xcTKaIUQPl-aw5Ql3o-dTht87eOjlXbkr1~xSmPdvhG96i93ypl5gC42b0Jl1askZm4AOHODkBbgvH~d3ZcNDSoGr9uurn6Vu71VNvCxb-1eEUkpti-eT7wUPPVpYZm-Uf2~lVnhuS8sBwxZ1xpN11nd4o8JtnyjTYVwzZ5U0djn2x2Ab6v5GpjbEdwckTjevJW0bOdk0HFFjcKZB4hqvjBfugRAq5jqvLP5t76KR8GfQG1UZA8BWJ1Glm8OTSw__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA",
+              "type": "RAW"
+            },
+            {
+              "path": "https://cf-picasso-ap1.mindtickle.com/1060037234145984721/VIDEO2405230922159329039/1683099226218L1.1.1IntroductiontoProductModule_transcription.pdf?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtcGljYXNzby1hcDEubWluZHRpY2tsZS5jb20vMTA2MDAzNzIzNDE0NTk4NDcyMS9WSURFTzI0MDUyMzA5MjIxNTkzMjkwMzkvMTY4MzA5OTIyNjIxOEwxLjEuMUludHJvZHVjdGlvbnRvUHJvZHVjdE1vZHVsZV90cmFuc2NyaXB0aW9uLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MDM4MDkxNH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=FRpEnNVxtG7sQXSNZSsHpsFfhc5TkcKWAMzt7Hbg6DaZKuP68lORtTclp3lmoc-~Mqb6ULHRR3GT8OswRlXbJSmWNdmFkUNl2xIV82xa95dajuqi3BAzBxQMQ6Tia36ON6zMzVCZYx1Hd~LoBtxoP5MyMzFXUkydESgb5amg3GpT-DH1m6YsSCWXAEMusK76Met2o5KY1jhFsClsNg5huOZ5KeAdiY9v~qMsv98dUtsRRqGv~9JZev-J0tQxVuVEZ1~HJM4qUuZzu9o1yDhw4efuCdmyLEtcgmtAcJ2JG9DynrkVec6UNgyDu4wgUQc4bWEE0O-aQ~mjupm9E1I5XA__&Key-Pair-Id=APKAJGWBOHCJNXASNZPA",
+              "type": "PDF"
+            },
+            {
+              "path": "",
+              "type": "CHUNKED"
+            }
+          ],
+          "__last_updated_timestamp__": null
+        }
+      }
