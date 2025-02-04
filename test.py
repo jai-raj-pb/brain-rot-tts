@@ -89,7 +89,7 @@ if __name__ == "__main__":
             
             messages = [
                 {"role": "system", "content": "You are good at generating summarized script for video generation service."},
-                {"role": "user", "content": "Generate 50 seconds video script extracting only the useful content from the following text which is transcript of a very big video: " + text + " The generated script should be deterministic, well directed, contain steps (dialogues, transitions, etc. whatever you find relevant) illustrative and should cover all the important points from the transcript."},
+                {"role": "user", "content": "Generate 50 seconds video script extracting only the useful content from the following text which is transcript of a very big video: " + text + " The generated script should be deterministic, well directed, illustrative and should cover all the important points from the transcript."},
             ]
 
             # Non-streaming response
@@ -106,3 +106,5 @@ if __name__ == "__main__":
             with open(result_filepath, 'w') as result_file:
                 json.dump(result, result_file, indent=4)
             print(f"Saved response and objectId in {result_filepath}")
+            
+            
