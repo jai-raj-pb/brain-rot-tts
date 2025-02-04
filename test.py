@@ -88,8 +88,20 @@ if __name__ == "__main__":
             
             
             messages = [
-                {"role": "system", "content": "You are good at generating summarized script for video generation service."},
-                {"role": "user", "content": "Generate 50 seconds video script extracting only the useful content from the following text which is transcript of a very big video: " + text + " The generated script should be deterministic, well directed, illustrative and should cover all the important points from the transcript."},
+                {
+                    "role": "system",
+                    "content": "You excel at generating a summarized script for a short video generation service."
+                },
+                {
+                    "role": "user",
+                    "content": (
+                        f"Generate a 50-second video script using only the relevant content from the following "
+                        f"transcript (which is from a very lengthy video): {text} "
+                        "The generated script must be deterministic, well-directed, and illustrative, covering all key points. "
+                        "Make sure the final script is between 15 and 50 seconds. "
+                        "The script should consist of speech only—exclude anything that's not spoken dialogue."
+                    )
+                }
             ]
 
             # Non-streaming response
