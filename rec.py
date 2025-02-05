@@ -17,7 +17,7 @@ class ChatGPTClient:
         self,
         messages: list[dict[str, str]],
         model: str = "gpt-4",
-        temperature: float = 0.3,
+        temperature: float = 0.0,
         max_tokens: Optional[int] = None,
         stream: bool = False
     ) -> Generator[str, None, None] | str:
