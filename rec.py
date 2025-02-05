@@ -65,10 +65,10 @@ if __name__ == "__main__":
                 script = data.get("response", "")
                 big_string = big_string + "objectId: " + objectId + "\t<script-start>" + script + "<script-end>"
                 
-    # ask chatgpt to recommend 2 scripts for each script
+    # ask chatgpt to recommend 3 scripts for each script
     messages = [
         {"role": "system", "content": "You are a script recommendation expert given several scripts"},
-        {"role": "user", "content": "<data-start> " + big_string + "<data-end> from the given data recommend 2 scripts for each script in following format: objectIdx: [recommendedObjectId1, recommendedObjectId2, How are they similar?]"},
+        {"role": "user", "content": "<data-start> " + big_string + "<data-end> from the given data recommend 3 scripts for each script in following format: objectIdx: [recommendedObjectId1, recommendedObjectId2, recommendedObjectId3]"},
     ]
     
     response = client.get_chat_response(messages)
