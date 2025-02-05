@@ -38,10 +38,10 @@ for filename in os.listdir(results_dir):
                 objectId_to_title[objectId] = title
 
 # Print dictionaries
-print("objectId_to_recommendations:", objectId_to_recommendations)
-print("objectId_to_tags:", objectId_to_tags)
-print("objectId_to_count:", objectId_to_count)
-print("objectId_to_title:", objectId_to_title)
+# print("objectId_to_recommendations:", objectId_to_recommendations)
+# print("objectId_to_tags:", objectId_to_tags)
+# print("objectId_to_count:", objectId_to_count)
+# print("objectId_to_title:", objectId_to_title)
 
 @app.post("/firstObj")
 async def first_obj():
