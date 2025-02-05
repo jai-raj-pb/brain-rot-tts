@@ -17,7 +17,7 @@ class ChatGPTClient:
         self,
         messages: list[dict[str, str]],
         model: str = "gpt-4",
-        temperature: float = 0.5,
+        temperature: float = 0.0,
         max_tokens: Optional[int] = None,
         stream: bool = False
     ) -> Generator[str, None, None] | str:
@@ -68,10 +68,27 @@ if __name__ == "__main__":
     # ask chatgpt to recommend 3 scripts for each script
     messages = [
         {"role": "system", "content": "You are a script recommendation expert given several scripts"},
-        {"role": "user", "content": "<data-start> " + big_string + "<data-end> from the given data recommend 3 scripts for each script in following format: objectIdx: [recommendedObjectId1, recommendedObjectId2, recommendedObjectId3]"},
+        {"role": "user", "content": "<data-start> " + big_string + "<data-end> from the given data recommend 3 scripts with single-word tags for each script in following format: objectIdx: [recommendedObjectId1, recommendedObjectId2, recommendedObjectId3], [tag1, tag2, tag3]"},
     ]
     
     response = client.get_chat_response(messages)
     print(response)
+    
+    data_dict = []
+    for line in response.strip().split('\n'):
+        parts = line.split(': ')
+        object_id = parts[1].strip()
+        recommendations = eval(parts[2].split(', [')[0].strip())
+        tags = eval('[' + parts[2].split(', [')[1].strip())
+        data_dict.append({
+            "objectId": object_id,
+            "recommendations": recommendations,
+            "tags": tags
+        })
+
+    output_filepath = 'output.json'
+    with open(output_filepath, 'w') as output_file:
+        json.dump(data_dict, output_file, indent=4)
+    print(f"Saved data in {output_filepath}")
             
             

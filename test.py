@@ -64,6 +64,7 @@ if __name__ == "__main__":
                 obj = data.get("obj", {})
                 objectId = obj.get("id", "")
                 tUrl = obj.get("transcriptPath", "")
+                title = obj.get("title", "")
                 print(f"Extracted objectId: {objectId}, transcriptPath: {tUrl}")
             
             if not tUrl:
@@ -112,7 +113,8 @@ if __name__ == "__main__":
             # Save response and objectId in result.json
             result = {
                 "objectId": objectId,
-                "response": response
+                "response": response,
+                "title": title
             }
             result_filepath = os.path.join(results_dir, f'result_{filename}')
             with open(result_filepath, 'w') as result_file:
