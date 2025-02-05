@@ -17,7 +17,7 @@ class ChatGPTClient:
         self,
         messages: list[dict[str, str]],
         model: str = "gpt-4",
-        temperature: float = 0.0,
+        temperature: float = 0.3,
         max_tokens: Optional[int] = None,
         stream: bool = False
     ) -> Generator[str, None, None] | str:
@@ -68,7 +68,7 @@ if __name__ == "__main__":
     # ask chatgpt to recommend 3 scripts for each script
     messages = [
         {"role": "system", "content": "You are a script recommendation expert given several scripts"},
-        {"role": "user", "content": "<data-start> " + big_string + "<data-end> from the given data recommend 3 scripts with single-word tags for each script in following format: objectIdx: [recommendedObjectId1, recommendedObjectId2, recommendedObjectId3], [tag1, tag2, tag3]"},
+        {"role": "user", "content": "<data-start> " + big_string + "<data-end> from the given data for each object id: recommend 3 scripts with single-word tags in following format: objectIdx: [recommendedObjectId1, recommendedObjectId2, recommendedObjectId3], [tag1, tag2, tag3]"},
     ]
     
     response = client.get_chat_response(messages)
@@ -78,7 +78,7 @@ if __name__ == "__main__":
     for line in response.strip().split('\n'):
         parts = line.split(': ')
         object_id = parts[1].strip()
-        recommendations = eval(parts[2].split(', [')[0].strip())
+        recommendations = [str(rec) for rec in eval(parts[2].split(', [')[0].strip())]
         tags = eval('[' + parts[2].split(', [')[1].strip())
         data_dict.append({
             "objectId": object_id,
